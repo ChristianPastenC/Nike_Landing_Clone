@@ -1,5 +1,5 @@
 import { Nav } from './components';
-import { Hero, PopularProducts, SuperQuality, Services, SpecialOffer, CustomerReviews } from './sections';
+import { Hero, PopularProducts, SuperQuality, Services, SpecialOffer, CustomerReviews, Subscribe } from './sections';
 
 const App = () => {
   return (
@@ -24,7 +24,7 @@ const App = () => {
         <CustomerReviews />
       </section>
       <section className='padding-x sm:py-32 py-16 w-full'>
-        Subscribe
+        <Subscribe />
       </section>
       <section className='bg-black padding-c padding-t pb-8'>
         Footer
