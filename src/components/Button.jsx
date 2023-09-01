@@ -17,13 +17,17 @@ const Button = ({
                 } rounded-full ${fullWidth && "w-full"}`}
         >
             {label}
-            {iconURL && (
-                <img
-                    src={iconURL}
-                    alt='arrow right icon'
-                    className='ml-2 rounded-full bg-white w-5 h-5'
-                />
-            )}
+            {
+                iconURL ? (
+                    <img
+                        src={iconURL}
+                        alt='arrow right icon'
+                        className='ml-2 rounded-full bg-white w-5 h-5'
+                    />
+                ) : (
+                    <div className='rounded-full w-5' />
+                )
+        }
         </button>
     );
 };

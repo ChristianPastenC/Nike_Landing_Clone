@@ -1,5 +1,5 @@
 import { Nav } from './components';
-import { Hero, PopularProducts, SuperQuality, Services, SpecialOffer } from './sections';
+import { Hero, PopularProducts, SuperQuality, Services, SpecialOffer, CustomerReviews } from './sections';
 
 const App = () => {
   return (
@@ -21,7 +21,7 @@ const App = () => {
         <SpecialOffer />
       </section>
       <section className='bg-pale-blue padding'>
-        CustomerReviews
+        <CustomerReviews />
       </section>
       <section className='padding-x sm:py-32 py-16 w-full'>
         Subscribe
