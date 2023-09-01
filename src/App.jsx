@@ -1,5 +1,5 @@
 import { Nav } from './components';
-import { Hero, PopularProducts, SuperQuality } from './sections';
+import { Hero, PopularProducts, SuperQuality, Services } from './sections';
 
 const App = () => {
   return (
@@ -15,7 +15,7 @@ const App = () => {
         <SuperQuality />
       </section>
       <section className='padding-x py-10'>
-        Services
+        <Services />
       </section>
       <section className='padding'>
         SpecialOffers
