@@ -1,9 +1,12 @@
+import { Nav } from './components';
+import { Hero } from './sections';
+
 const App = () => {
   return (
     <main className='relative'>
-      Nav Bar
+      <Nav />
       <section className='xl:padding-1 wide:padding-r padding-b'>
-        Hero
+        <Hero />
       </section>
       <section className='padding'>
         Popular Products
