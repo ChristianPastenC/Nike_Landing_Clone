@@ -1,8 +1,14 @@
-# React + Vite
+# Nike Landing Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/ChristianPastenC/Nike_Landing_Clone/assets/49313732/2a812b00-3cf7-4039-8348-9523ba58e6ec)
 
-Currently, two official plugins are available:
+![image](https://github.com/ChristianPastenC/Nike_Landing_Clone/assets/49313732/d1cb0b50-56ab-4e94-809b-0589e7f61e89)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/ChristianPastenC/Nike_Landing_Clone/assets/49313732/15415994-ee91-4329-8fe8-4e1f45325039)
+
+![image](https://github.com/ChristianPastenC/Nike_Landing_Clone/assets/49313732/b2a9e8e3-f14d-48fa-9d0f-5d14561eab80)
+
+![image](https://github.com/ChristianPastenC/Nike_Landing_Clone/assets/49313732/20c02ad4-6046-4ba8-9763-1540a7c3be54)
+
+
+
